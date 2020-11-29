@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Todo App
 
-Todo app
+Todo app para la trazabilidad de tares en el día
 
 ## Comenzando 🚀
 
